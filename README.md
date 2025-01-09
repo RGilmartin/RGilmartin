@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RGilmartin (Ryan Gilmartin)
 - 👀 I’m interested in App Development, AI, rock climbing, and hiking.
-- 🌱 I’m currently learning Flutter and tensor flow
 - 📫 How to reach me:
 
 email: ryan22gil@gmail.com
